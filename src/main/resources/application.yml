@@ -1,0 +1,15 @@
+#yml配置文件 空格不能省
+spring:
+  thymeleaf:
+    mode: HTML
+  profiles:
+    active: dev
+  messages:
+    basename: i18n/messages
+
+
+comment.avatar: /images/avatar.png
+
+
+
+

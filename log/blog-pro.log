@@ -1,0 +1,7 @@
+2020-01-07 21:41:29.734  INFO 15088 --- [restartedMain] com.liuyewei.myblog.MyblogApplication    : Starting MyblogApplication on liuyeweideMacBook-Pro.local with PID 15088 (/Users/liuyewei/Desktop/myblog/target/classes started by liuyewei in /Users/liuyewei/Desktop/myblog)
+2020-01-07 21:41:29.736  INFO 15088 --- [restartedMain] com.liuyewei.myblog.MyblogApplication    : The following profiles are active: pro
+2020-01-07 21:41:30.337  WARN 15088 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.liuyewei.myblog]' package. Please check your configuration.
+2020-01-07 21:41:31.056  WARN 15088 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-01-07 21:41:31.498  WARN 15088 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-01-07 21:41:31.672  WARN 15088 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-01-07 21:41:31.874  INFO 15088 --- [restartedMain] com.liuyewei.myblog.MyblogApplication    : Started MyblogApplication in 2.443 seconds (JVM running for 2.91)
